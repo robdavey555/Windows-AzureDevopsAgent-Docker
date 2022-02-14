@@ -7,7 +7,7 @@
 $Env:AZP_URL="https://dev.azure.com/hrlocker" 
 $Env:AZP_AGENT_NAME="testcompleteagent1"
 $Env:AZP_POOL="Test Complete Agent Pool"
-$Env:AZP_TOKEN="c6oqkpixp2wurqf4vtwguuofgrxf4bsw45pxfhmm2zrybscoki2a"
+$Env:AZP_TOKEN=""
 
 $Env:AZP_UserName="testcomepletepoc"
 $Env:AZP_UserPassword="urqf4vtwgu1X"
